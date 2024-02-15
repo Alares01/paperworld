@@ -78,7 +78,7 @@
             "visitor": "Visitante",
             "exhibitor": "Expositor",
             "required": "Todos los campos marcados con un asterisco (*) son obligatorios",
-            "subtitle": "Para asegurar su lugar como expositor en el evento America's Paper World 2024, que se llevará a cabo los días 17 y 18 de Enero del 2024, deberá completar la siguiente solicitud. Los espacios para expositores se asignan por orden de reserva y confirmación de pago.",
+            "subtitle": "Para asegurar su lugar como expositor en el evento America's Paper World 2024, que se llevará a cabo los días 31 de Octubre y 1 de Noviembre del 2024, deberá completar la siguiente solicitud. Los espacios para expositores se asignan por orden de reserva y confirmación de pago.",
             "billinginformation": "Datos de facturación y contrato",
             "companyName": "Razón social a facturar",
             "rfc": "RFC",
@@ -121,9 +121,9 @@
             "paymentTerms": "Términos y condiciones de pago",
             "paymentInfo": "El precio de los lugares adquiridos deberá ser cubierto al 100% para garantizar el lugar",
             "paymentSchedule": {
-               "first": "1er pago 40% - Marzo",
-               "second": "2do pago 30% - Abril",
-               "third": "3er pago 30% - Mayo"
+               "first": "1er pago 40% - Abril",
+               "second": "2do pago 30% - Mayo",
+               "third": "3er pago 30% - Junio"
             },
             "paymentFailure": "El incumplimiento de los plazos o términos especificados dará lugar a un ajuste de precios en el stand contratado, cambiando a precio regular y/o la pérdida del stand asignado para su empresa.",
             "selectPackage": "Selecciona el lugar y paquete",
@@ -240,7 +240,7 @@
             "privacyNoticeUseOfInfo":{
                "1.":"Sending emails about prior notices and/or invitations to events.",
                "2.":"Sending emails for registration confirmation.",
-               "3.":"Personalization of the experience, that is, being able to offer the type of content in which you aremore interested.",
+               "3.":"Personalization of the experience, that is, being able to offer the type of content in which you are more interested.",
                "4.":"Follow-up of the attendance to the courses or sessions of the event.",
                "5.":"Processing of payment transactions.",
                "6.":"Request for ratings and reviews regarding the event."
@@ -270,7 +270,7 @@
             "visitor": "Visitor",
             "exhibitor": "Expositor",
             "required": "All fields marked with an asterisk (*) are required",
-            "subtitle": "To secure your spot as an exhibitor at the America's Paper World 2024 event, which will take place on January 17 and 18, 2024, you must complete the following application. The spaces for exhibitors are assigned by order of reservation and confirmation of payment.",
+            "subtitle": "To secure your spot as an exhibitor at the America's Paper World 2024 event, which will take place on October 31st and 1st of November, 2024, you must complete the following application. The spaces for exhibitors are assigned by order of reservation and confirmation of payment.",
             "billinginformation": "Billing and contract data",
             "companyName": "Company Name for Contract ",
             "rfc": "Tax ID Number",
@@ -313,9 +313,9 @@
             "paymentTerms": "Terms and conditions of payment",
             "paymentInfo": "The price of the places acquired must be covered in full to guarantee the reserved spot.",
             "paymentSchedule": {
-               "first": "1st payment 40% - March",
-               "second": "2nd payment 30% - April",
-               "third": "3rd payment 30% - May"
+               "first": "1st payment 40% - April",
+               "second": "2nd payment 30% - May",
+               "third": "3rd payment 30% - June"
             },
             "paymentFailure": "Failure to comply with the specified deadlines or terms will lead to a price adjustment in the contracted stand, changing to the regular price and/or the loss of the stand assigned to your company.",
             "selectPackage": "Select the place and package",
